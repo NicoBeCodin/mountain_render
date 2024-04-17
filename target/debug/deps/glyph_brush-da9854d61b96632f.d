@@ -1,0 +1,10 @@
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\libglyph_brush-da9854d61b96632f.rmeta: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\owned_section.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\section.rs
+
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\glyph_brush-da9854d61b96632f.d: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\owned_section.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\section.rs
+
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\lib.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_brush\builder.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\glyph_calculator.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\owned_section.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glyph_brush-0.6.3\src\section.rs:

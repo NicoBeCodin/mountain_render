@@ -1,0 +1,10 @@
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\libgilrs_core-788ce55f7da2812c.rmeta: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\mod.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\mod.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\ff.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\gamepad.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\utils.rs
+
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\gilrs_core-788ce55f7da2812c.d: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\mod.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\mod.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\ff.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\gamepad.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\utils.rs
+
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\lib.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\mod.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\mod.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\ff.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\platform\windows\gamepad.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gilrs-core-0.2.6\src\utils.rs:

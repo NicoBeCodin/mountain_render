@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\libinflate-d7ca4572b7c132e6.rmeta: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\checksum.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\writer.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\utils.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\reader.rs
+
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\libinflate-d7ca4572b7c132e6.rlib: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\checksum.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\writer.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\utils.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\reader.rs
+
+C:\Users\nicol\Desktop\RustyFiles\mountain_render\target\debug\deps\inflate-d7ca4572b7c132e6.d: C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\lib.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\checksum.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\writer.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\utils.rs C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\reader.rs
+
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\lib.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\checksum.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\writer.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\utils.rs:
+C:\Users\nicol\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inflate-0.4.5\src\reader.rs:
