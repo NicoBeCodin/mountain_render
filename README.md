@@ -1,4 +1,4 @@
-#mountain_render
+# mountain_render
 
 This is a small project to test out 3D rendering using rasterisation. Objects are transformed in a mesh composed of triangles which are then transformed and projected on the screen. Display is with ggez v0.5.1.
 
